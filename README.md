@@ -1,11 +1,21 @@
-# 💫About Me :
+💫 About Me
 Hi there 👋
-Hi, I'm Sami Ullah, a fresh graduate in software engineering with experience developing mobile apps using Kotlin and Java. I have a passion for technology and am eager to start my career in software development. Outside of my professional interests, I'm a sports enthusiast who loves playing cricket and football.
+I'm Sami Ullah, a passionate Android Developer with a degree in Software Engineering and over 2 years of experience building mobile applications using Kotlin, Java, and the Android SDK. I'm focused on delivering clean, user-friendly, and scalable Android apps, and I enjoy solving real-world problems through technology.
 
-🔭 I’m currently working on mobile app development
-🌱 I’m currently learning Compose Multiplatform
-💬 Ask me about
-📫 How to reach me: samikhandev2k@gmail.com
+🔭 Currently working on production-grade mobile apps
+
+🌱 Exploring Jetpack Compose and Compose Multiplatform
+
+🧠 Strong foundation in MVVM, Clean Architecture, and API Integration
+
+🛠️ Skilled with tools like Retrofit, Room, Coroutines, and Hilt
+
+💬 Always open to discussing Android, software architecture, or career growth
+
+⚽ Outside of work, I’m a huge sports enthusiast — I love playing cricket and football
+
+📫 Reach me at: samikhandev2k@gmail.com
+
 😄 Pronouns: He/Him
 
 
