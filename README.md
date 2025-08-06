@@ -1,4 +1,5 @@
 💫 About Me
+
 Hi there 👋
 I'm Sami Ullah, a passionate Android Developer with a degree in Software Engineering and over 2 years of experience building mobile applications using Kotlin, Java, and the Android SDK. I'm focused on delivering clean, user-friendly, and scalable Android apps, and I enjoy solving real-world problems through technology.
 
